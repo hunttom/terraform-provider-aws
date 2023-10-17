@@ -1,3 +1,8 @@
+```release-note:note
+Closed PR due to wrong naming convention to branch. Reopened as #33974
+```
+
+
 ```release-note:new-data-source
 aws_apigatewayv2_vpc_link
 ```
